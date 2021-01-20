@@ -6,3 +6,5 @@ NPM INSTALL
 THEN TYPE : GULP IN THE COMMAND LINE.
 
 PROJECT WILL OPEN ON LOCAL HOST 3000.
+
+note : 2 gulp.js files one with notes and hints one clean code version.
